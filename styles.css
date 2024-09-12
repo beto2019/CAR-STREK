@@ -25,7 +25,7 @@ header {
     z-index: 2;
 
     & img {
-        width: 250px;
+        width: 200px;
     }
 
     & nav {
